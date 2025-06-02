@@ -1,0 +1,741 @@
+﻿ORDER_ID,CITY,COST
+4,Paris,332.27
+5,Paris,79.30
+7,New York,119.30
+8,London,134.46
+9,Dubai,309.70
+10,Venice,133.33
+12,New York,104.01
+14,London,232.61
+16,Paris,60.04
+17,Madrid,185.98
+18,Venice,29.65
+19,Paris,292.41
+20,Paris,232.22
+22,Dubai,257.47
+23,Paris,305.41
+24,New York,171.89
+25,Madrid,263.39
+26,New York,206.61
+29,Paris,168.11
+30,London,191.30
+31,Venice,156.74
+32,New York,201.79
+33,London,316.28
+34,Paris,278.00
+35,New York,230.58
+36,London,240.30
+37,London,141.00
+39,Venice,71.89
+40,Venice,135.75
+43,Dubai,145.27
+44,Madrid,260.22
+46,New York,143.40
+50,London,189.24
+51,Venice,95.21
+52,London,291.37
+53,London,125.88
+55,Berlin,152.78
+56,Venice,81.09
+59,Dubai,84.71
+60,Madrid,96.91
+61,Amsterdam,105.39
+62,New York,330.34
+64,New York,254.39
+65,Paris,231.71
+67,Paris,68.57
+68,Venice,179.80
+69,Paris,301.95
+71,Madrid,72.51
+72,Berlin,303.27
+73,London,231.50
+74,London,32.39
+75,Madrid,202.59
+76,London,252.95
+77,Venice,241.83
+78,Berlin,316.40
+79,Madrid,112.76
+80,Venice,97.82
+82,Paris,308.39
+83,Venice,140.45
+85,Madrid,237.87
+86,Venice,193.74
+88,Venice,243.77
+89,London,61.81
+90,Paris,127.12
+91,Madrid,223.20
+92,London,42.69
+94,New York,166.64
+95,Paris,208.30
+96,Venice,248.21
+97,Dubai,120.16
+98,Venice,92.61
+99,New York,47.02
+100,Paris,120.81
+101,Venice,108.30
+103,Madrid,50.26
+104,Venice,19.10
+106,Paris,109.22
+107,Venice,30.81
+109,Paris,124.75
+110,Dubai,81.95
+111,London,25.93
+113,London,49.80
+114,Venice,239.28
+115,Paris,52.16
+116,Paris,159.81
+119,Paris,152.60
+120,Paris,122.48
+121,New York,46.52
+122,Rome,95.13
+123,Venice,143.98
+124,Venice,235.84
+125,Amsterdam,229.80
+126,Venice,282.52
+128,Madrid,180.93
+129,London,95.05
+130,Berlin,146.45
+131,Venice,175.73
+132,Paris,329.91
+137,Venice,156.76
+138,Venice,190.08
+139,Berlin,312.50
+141,Venice,105.24
+142,Paris,111.21
+143,London,261.92
+144,Venice,77.19
+145,New York,241.56
+146,Madrid,116.17
+148,London,86.38
+150,Madrid,232.06
+153,Paris,263.66
+154,Paris,44.35
+155,London,88.49
+156,Berlin,220.43
+157,New York,322.70
+158,Dubai,180.47
+160,London,230.54
+162,Venice,203.42
+163,Paris,45.79
+164,Paris,33.50
+165,Paris,230.19
+166,Berlin,119.49
+167,Berlin,86.70
+170,Venice,88.31
+172,Madrid,96.91
+173,Madrid,302.17
+174,Madrid,278.90
+176,Madrid,176.19
+177,Madrid,227.75
+178,Paris,74.31
+179,Madrid,160.81
+181,Venice,62.41
+182,Paris,286.26
+183,Paris,99.72
+184,Berlin,86.16
+185,Madrid,176.08
+186,Madrid,131.86
+189,Venice,67.71
+190,London,32.33
+191,Dubai,294.25
+192,Venice,316.50
+193,Madrid,189.27
+194,London,123.30
+195,New York,156.79
+197,Venice,115.88
+199,Paris,60.54
+200,Berlin,89.99
+203,London,91.55
+204,Madrid,263.04
+205,Madrid,289.40
+206,Venice,251.68
+208,Amsterdam,116.51
+209,New York,257.79
+210,Paris,113.40
+211,Paris,67.56
+212,Madrid,245.97
+213,Paris,59.32
+214,Venice,196.21
+215,Dubai,118.89
+216,Dubai,78.26
+218,Madrid,198.66
+219,Rome,87.31
+220,Dubai,63.26
+221,Dubai,129.50
+223,Paris,239.09
+224,Madrid,312.90
+225,Venice,310.95
+226,London,87.32
+227,Paris,71.25
+228,New York,275.10
+229,Paris,112.09
+230,Berlin,295.75
+232,Paris,113.37
+234,London,142.59
+235,Venice,289.49
+236,London,323.49
+238,Venice,73.54
+240,Venice,127.18
+242,London,61.88
+243,Dubai,102.12
+245,New York,203.84
+246,Paris,318.22
+249,Dubai,167.30
+250,Paris,144.72
+251,Dubai,74.42
+252,Venice,44.68
+253,New York,272.33
+256,New York,160.66
+257,London,78.35
+258,Madrid,280.30
+259,Dubai,108.04
+260,Paris,41.88
+261,Venice,108.26
+263,Venice,65.51
+264,London,174.23
+266,London,22.55
+267,Venice,24.75
+268,Amsterdam,17.23
+271,New York,257.96
+273,Paris,121.36
+274,Dubai,12.85
+275,London,241.61
+277,Venice,82.00
+278,Madrid,267.73
+279,London,321.92
+281,Venice,73.64
+282,Venice,166.14
+284,Dubai,103.28
+285,Rome,66.92
+287,Madrid,48.03
+288,Venice,118.42
+289,Dubai,119.30
+290,Paris,168.90
+292,New York,24.56
+294,Dubai,14.83
+297,Venice,130.69
+298,Paris,143.51
+299,Paris,102.10
+300,Dubai,94.97
+301,Paris,32.36
+303,New York,57.08
+305,Venice,247.52
+306,Madrid,70.84
+307,Singapore,104.93
+308,Venice,187.46
+309,Berlin,95.91
+310,Madrid,127.42
+312,Dubai,279.42
+315,Dubai,191.42
+316,Paris,118.58
+317,Madrid,140.94
+319,London,176.58
+320,Paris,219.81
+322,Paris,93.90
+323,New York,231.25
+324,Dubai,54.95
+325,Madrid,84.79
+326,London,118.64
+327,London,235.42
+328,Berlin,114.39
+329,Madrid,245.71
+331,Madrid,53.55
+332,Madrid,184.66
+333,Venice,249.91
+334,Madrid,173.60
+335,Amsterdam,219.26
+336,Madrid,111.68
+338,London,99.39
+340,Paris,39.44
+342,London,106.01
+344,London,247.71
+345,Venice,106.94
+347,New York,100.77
+348,Paris,117.78
+349,Madrid,124.95
+350,New York,112.94
+351,Dubai,66.73
+352,New York,73.52
+354,Paris,331.67
+356,London,96.27
+357,Madrid,42.31
+358,New York,41.96
+360,London,245.22
+361,Madrid,46.18
+362,Paris,122.99
+363,Berlin,81.95
+365,London,228.95
+366,London,270.30
+368,Dubai,66.83
+369,Madrid,71.93
+371,New York,243.51
+372,Paris,64.74
+373,London,165.78
+374,Venice,239.16
+376,Madrid,69.39
+377,Venice,97.59
+378,Paris,54.88
+379,Paris,190.20
+380,Dubai,136.98
+381,Madrid,296.30
+382,London,141.86
+383,Dubai,16.96
+384,London,246.86
+386,Madrid,303.58
+387,Paris,326.46
+390,Venice,134.71
+391,Paris,161.83
+392,New York,212.82
+393,London,225.88
+395,Madrid,65.37
+397,London,229.78
+398,London,141.31
+399,Dubai,158.77
+400,New York,149.14
+401,London,130.88
+403,Dubai,108.80
+404,New York,98.08
+405,Paris,301.53
+406,London,128.75
+407,Venice,75.37
+409,Dubai,231.14
+410,London,96.77
+412,New York,318.04
+415,Dubai,125.87
+416,Paris,87.81
+419,London,71.33
+420,London,159.02
+421,Dubai,149.03
+425,Berlin,251.20
+427,Venice,77.14
+429,Paris,241.74
+430,Madrid,145.96
+431,Milan,285.43
+433,Dubai,33.42
+434,New York,252.28
+435,Dubai,71.76
+436,Paris,228.51
+437,London,94.99
+438,Dubai,313.09
+439,Dubai,152.49
+440,London,80.51
+441,Venice,330.96
+442,New York,73.34
+443,New York,154.85
+445,Berlin,137.08
+446,Paris,190.22
+447,Dubai,93.62
+448,Paris,97.83
+449,Paris,61.18
+450,Paris,213.05
+452,Madrid,148.16
+453,Milan,90.77
+454,London,231.41
+455,New York,98.04
+457,Berlin,66.97
+458,Madrid,39.28
+459,Venice,283.63
+461,Madrid,249.77
+462,Paris,323.07
+463,London,248.73
+465,Dubai,95.58
+466,Paris,90.62
+468,Berlin,32.82
+471,Madrid,22.77
+472,Singapore,301.02
+473,Berlin,338.11
+474,Berlin,96.54
+475,Berlin,248.58
+477,New York,82.63
+478,London,120.50
+479,Paris,255.11
+480,New York,112.61
+481,Paris,36.51
+482,Amsterdam,73.64
+484,Venice,69.09
+485,New York,276.56
+487,Venice,215.30
+488,Dubai,41.04
+489,Madrid,249.84
+490,Venice,118.09
+491,Venice,270.57
+493,Dubai,148.25
+495,London,86.81
+496,Berlin,206.52
+497,London,94.03
+498,Berlin,147.92
+499,Venice,191.62
+500,Paris,145.28
+502,New York,70.80
+503,Madrid,133.55
+504,Madrid,52.91
+505,London,96.81
+506,Venice,172.36
+508,Madrid,234.05
+510,Paris,231.58
+511,New York,268.48
+514,Madrid,82.14
+515,New York,280.13
+520,Paris,150.77
+521,New York,85.04
+522,New York,289.50
+523,Berlin,324.28
+524,Venice,96.26
+525,Dubai,221.96
+526,Madrid,129.13
+527,New York,127.13
+528,Madrid,303.25
+529,Paris,178.17
+530,Paris,116.80
+531,Dubai,295.53
+532,Venice,317.57
+533,New York,169.75
+535,Madrid,152.68
+536,Venice,97.02
+537,Paris,108.92
+538,Paris,231.23
+539,Berlin,88.28
+540,Dubai,83.64
+541,Venice,283.80
+542,Venice,114.62
+543,Madrid,292.12
+546,London,234.20
+547,Venice,69.03
+548,Dubai,33.43
+550,Dubai,207.62
+551,London,209.22
+552,Dubai,105.29
+553,London,130.54
+554,London,244.59
+556,New York,39.96
+557,London,147.53
+558,Paris,80.16
+559,Madrid,20.30
+561,New York,248.00
+562,Madrid,56.04
+563,Venice,329.56
+564,Venice,74.46
+566,Paris,47.09
+567,London,173.98
+568,Paris,332.41
+569,Paris,34.30
+571,London,145.18
+572,Venice,121.74
+573,Madrid,176.86
+577,New York,142.49
+578,Venice,126.55
+579,Madrid,86.87
+580,Venice,154.11
+582,Berlin,233.21
+583,Berlin,19.86
+584,Venice,161.55
+585,London,73.86
+587,Paris,330.54
+588,Dubai,265.58
+589,Madrid,171.10
+590,Paris,109.54
+594,Venice,152.20
+595,London,210.73
+596,Paris,141.79
+597,Berlin,186.02
+598,Madrid,136.05
+599,London,53.08
+601,New York,61.92
+602,New York,163.52
+603,Madrid,120.26
+604,Madrid,69.19
+605,New York,203.35
+606,Dubai,196.29
+607,New York,62.35
+608,Venice,287.02
+609,Venice,28.62
+611,Madrid,326.06
+612,Paris,105.34
+613,New York,259.94
+614,London,73.59
+615,Madrid,260.23
+616,New York,284.15
+617,New York,62.59
+618,Dubai,158.86
+619,Paris,165.62
+621,London,128.58
+622,New York,87.11
+623,Madrid,111.01
+624,New York,217.90
+625,New York,93.83
+626,Paris,101.84
+627,Amsterdam,124.34
+628,Venice,289.30
+629,Paris,29.61
+630,Berlin,203.02
+631,Madrid,83.49
+632,Berlin,244.74
+633,New York,86.01
+634,London,187.48
+635,Dubai,222.76
+636,Madrid,223.89
+637,London,312.38
+638,London,147.36
+639,Madrid,305.38
+640,Paris,135.20
+641,Madrid,68.81
+642,Amsterdam,243.34
+643,Paris,65.79
+645,Paris,320.73
+646,Madrid,153.77
+647,New York,77.56
+648,Paris,65.74
+649,London,34.42
+651,Venice,322.49
+653,Dubai,233.41
+654,Dubai,205.01
+655,Berlin,174.31
+656,Berlin,12.97
+657,Paris,115.85
+658,London,259.84
+659,New York,291.09
+662,London,64.86
+663,Madrid,109.05
+666,Paris,133.74
+667,Madrid,125.27
+668,London,44.15
+669,Amsterdam,53.66
+670,London,136.51
+671,Berlin,305.11
+672,New York,264.25
+673,Madrid,125.48
+674,Madrid,73.61
+675,London,41.53
+676,Venice,273.79
+678,London,145.89
+679,Paris,111.31
+681,Madrid,240.06
+682,Dubai,204.79
+683,Amsterdam,57.54
+684,Venice,200.74
+685,Paris,250.43
+687,Berlin,237.41
+690,Madrid,14.60
+692,London,215.84
+694,Paris,147.54
+695,London,107.91
+696,New York,192.83
+697,Venice,151.12
+698,New York,229.75
+699,Venice,212.58
+700,Venice,197.48
+702,New York,43.14
+703,New York,51.96
+704,Madrid,218.81
+706,New York,88.44
+710,Paris,70.55
+711,Berlin,316.45
+713,New York,235.96
+714,Madrid,192.85
+715,London,89.51
+716,Paris,178.92
+717,Paris,111.83
+721,New York,259.72
+722,Madrid,55.60
+723,Venice,147.60
+724,New York,300.55
+726,Paris,218.69
+727,Madrid,37.35
+728,London,179.10
+729,Berlin,276.45
+730,Madrid,91.58
+731,Venice,238.50
+732,Madrid,140.67
+736,Madrid,224.38
+737,Paris,46.34
+738,Berlin,273.70
+739,New York,177.13
+740,Dubai,49.18
+741,Madrid,184.54
+742,Berlin,158.25
+743,Paris,141.53
+744,Paris,118.57
+745,Berlin,241.71
+746,Venice,147.69
+748,Madrid,314.73
+749,Venice,144.09
+750,London,180.69
+752,Venice,141.62
+753,Paris,157.52
+754,London,38.51
+755,New York,223.82
+756,Venice,110.64
+758,Dubai,69.03
+759,New York,254.83
+760,Paris,49.72
+761,London,50.82
+765,Venice,180.58
+766,Dubai,315.70
+767,Paris,182.55
+768,Madrid,70.16
+769,New York,132.33
+770,Venice,79.26
+771,Madrid,131.10
+773,Berlin,320.43
+775,New York,142.14
+776,Paris,302.98
+777,Venice,123.67
+778,Paris,132.64
+779,Madrid,101.62
+781,Paris,209.64
+783,London,160.47
+785,New York,207.49
+786,Dubai,145.27
+787,Madrid,239.14
+788,Dubai,112.67
+789,Paris,266.00
+790,Madrid,301.96
+791,New York,158.30
+793,Berlin,159.38
+794,Venice,184.15
+795,London,190.15
+796,London,221.67
+797,New York,270.96
+798,Madrid,170.16
+799,Madrid,46.78
+800,New York,33.68
+801,Berlin,92.67
+802,New York,44.18
+803,Venice,297.03
+806,Madrid,185.76
+808,Berlin,88.87
+809,Paris,205.73
+810,Berlin,220.35
+811,Venice,120.27
+812,New York,122.51
+813,London,98.53
+814,Amsterdam,299.92
+815,New York,190.40
+818,Madrid,129.61
+819,London,231.64
+820,Venice,54.59
+821,Berlin,108.42
+822,Madrid,115.31
+823,Madrid,285.65
+824,New York,84.50
+825,Paris,126.65
+826,London,298.57
+828,Madrid,201.30
+830,Berlin,44.45
+833,Paris,75.15
+834,Madrid,76.06
+836,New York,307.22
+839,Venice,294.04
+840,Milan,61.17
+842,London,92.10
+844,Madrid,136.04
+845,Dubai,49.50
+846,Venice,215.73
+847,Rome,112.46
+848,London,165.75
+849,Paris,119.78
+850,Paris,158.47
+851,Dubai,46.95
+852,London,22.51
+853,Madrid,104.52
+854,New York,271.70
+857,London,83.59
+858,New York,144.58
+859,New York,245.97
+860,London,160.71
+861,Berlin,316.79
+862,Dubai,84.37
+863,Paris,55.88
+864,Dubai,73.24
+865,Madrid,282.09
+866,Venice,217.56
+871,Madrid,95.39
+873,New York,64.32
+874,Paris,137.86
+876,Dubai,141.15
+877,Venice,204.64
+878,Venice,264.15
+880,Venice,229.14
+882,New York,156.83
+883,Paris,77.56
+885,Milan,278.80
+887,Venice,299.36
+888,London,111.48
+889,New York,154.67
+890,London,140.70
+891,Venice,94.47
+892,London,35.93
+893,Madrid,66.32
+894,Madrid,105.87
+895,Dubai,105.33
+896,Madrid,30.05
+899,New York,154.14
+900,London,36.15
+902,Venice,25.01
+904,New York,127.91
+905,London,141.15
+907,Dubai,94.85
+908,Milan,158.86
+909,Paris,325.51
+910,Venice,209.36
+911,London,54.26
+912,Paris,63.57
+915,Madrid,143.13
+917,Venice,105.46
+918,Madrid,238.11
+919,Dubai,95.67
+920,London,98.44
+921,London,209.02
+926,Paris,285.33
+928,Berlin,133.80
+930,New York,292.91
+931,Madrid,122.58
+932,London,63.67
+934,Dubai,69.26
+937,London,139.58
+939,Berlin,124.40
+940,London,280.41
+941,Paris,77.97
+942,Paris,178.44
+943,Madrid,68.65
+945,London,252.28
+946,Dubai,43.79
+947,Madrid,89.71
+948,Venice,261.16
+949,London,64.60
+952,Venice,145.13
+953,Berlin,61.84
+954,Venice,147.98
+955,New York,221.57
+956,Paris,183.71
+959,Paris,162.68
+960,New York,158.50
+961,Amsterdam,67.25
+962,Venice,263.23
+963,London,58.63
+965,Venice,144.21
+966,London,185.07
+967,London,63.64
+968,London,67.74
+969,Madrid,222.57
+970,London,248.49
+972,Paris,143.75
+973,Dubai,251.57
+975,New York,98.29
+976,Berlin,84.14
+978,Venice,119.36
+979,Paris,119.58
+981,Paris,327.73
+982,London,125.47
+983,New York,155.01
+984,New York,77.88
+985,New York,104.59
+987,Venice,163.40
+988,London,94.62
+989,Paris,51.75
+990,Madrid,235.73
+991,Venice,298.88
+992,London,223.44
+993,Venice,297.73
+994,Dubai,306.32
+998,Venice,160.07
