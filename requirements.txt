@@ -1,0 +1,4 @@
+tensorflow>=2.19
+pandas
+numpy
+scikit-learn
